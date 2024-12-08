@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|c:\\users\\timsteus\\source\\repos\\mauiappeb\\mauiappeb\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|solutionrelative:mauiappeb\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|c:\\users\\timsteus\\source\\repos\\mauiappeb\\mauiappeb\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|solutionrelative:mauiappeb\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|c:\\users\\timsteus\\source\\repos\\mauiappeb\\mauiappeb\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|solutionrelative:mauiappeb\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|c:\\users\\timsteus\\source\\repos\\mauiappeb\\mauiappeb\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|solutionrelative:mauiappeb\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|c:\\users\\timsteus\\source\\repos\\mauiappeb\\mauiappeb\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|solutionrelative:mauiappeb\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|c:\\users\\timsteus\\source\\repos\\mauiappeb\\mauiappeb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0040949E-86D1-4DAA-85FC-D76DED03C0EA}|MAUIAppEB\\MAUIAppEB.csproj|solutionrelative:mauiappeb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MAUIAppEB\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\MainPage.xaml.cs",
+              "RelativeToolTip": "MAUIAppEB\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:21:24.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "MAUIAppEB\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "MAUIAppEB\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T16:20:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MAUIAppEB\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\MainPage.xaml",
+              "RelativeToolTip": "MAUIAppEB\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T16:15:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MAUIAppEB\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\AppShell.xaml",
+              "RelativeToolTip": "MAUIAppEB\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T16:15:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\App.xaml",
+              "RelativeDocumentMoniker": "MAUIAppEB\\App.xaml",
+              "ToolTip": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\App.xaml",
+              "RelativeToolTip": "MAUIAppEB\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T16:11:48.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MAUIAppEB\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\TimsTeus\\source\\repos\\MAUIAppEB\\MAUIAppEB\\MauiProgram.cs",
+              "RelativeToolTip": "MAUIAppEB\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:11:05.149Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
