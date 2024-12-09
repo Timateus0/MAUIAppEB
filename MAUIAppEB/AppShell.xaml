@@ -8,7 +8,7 @@
     Title="MAUIAppEB">
 
     <ShellContent
-        Title="Home"
+        Title="ПБ"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
