@@ -6,54 +6,120 @@
     <ScrollView>
         <VerticalStackLayout
             Padding="10,0"
-            Spacing="5">
+            Spacing="10">
 
-            <HorizontalStackLayout
-                Spacing="5">
+            <Grid ColumnSpacing="10" 
+                  RowSpacing="30">
+             <Grid.ColumnDefinitions>
+                <ColumnDefinition  />
+                    <ColumnDefinition />
+                <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
                 <Button
-            x:Name="CounterBtn3"
+            x:Name="MainBtn3"
+            Grid.Column ="0"
             Text="Новинки"
-            WidthRequest="200" 
+           
             HeightRequest="50"    
             SemanticProperties.Hint="Counts the number of times you click"
-            HorizontalOptions="Start"  
+            HorizontalOptions="Fill"  
+             Clicked="OnMainClicked"
+                    
 
             />
             <Button
-            x:Name="CounterBtn2"
+            x:Name="DownloadBtn"
+             Grid.Column ="1"
             Text="Загрузки"
-            WidthRequest="200" 
+            
             HeightRequest="50"    
             SemanticProperties.Hint="Counts the number of times you click"
-            HorizontalOptions="Start"  
+            HorizontalOptions="Fill"  
 
             />
-                <Entry Placeholder = "Поиск" FontFamily="Helvetica"
-                FontSize="22" MaxLength ="50" HorizontalOptions="Center" />
-            </HorizontalStackLayout>
+                <Entry Placeholder = "Поиск" 
+                       FontFamily="Helvetica"
+                Grid.Column ="2"       
+                FontSize="22" 
+                MaxLength ="50" 
+                 
+                HorizontalOptions="Fill" 
+                VerticalOptions="Center" />
+                
+            </Grid>
             
-            <HorizontalStackLayout>
+            
                 
                 <Button
                 x:Name="CounterBtn"
-                Text="Click me"
-                WidthRequest="200" 
+                Text="Фильтры"
+               
                 HeightRequest="50"    
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
-                    
+                HorizontalOptions="Fill"    
                  />
                 
                 
 
-            </HorizontalStackLayout>
+            
             <!--<Label
                 Text="Welcome to &#10;.NET Multi-platform App UI"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />-->
-              
-           
+
+            <Grid x:Name="Table">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.2*" />
+                    <ColumnDefinition Width="1.8*"/>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text = "№"
+                    Grid.Column ="0" 
+                    HorizontalOptions="Start"
+                    FontSize="22"
+                />
+                <Label
+                    Text = "Название"
+                    Grid.Column ="1" 
+                    HorizontalOptions="Start"
+                    FontSize="22"
+                 />
+                <Label
+                    Text = "Автор книги"
+                    Grid.Column ="2" 
+                    HorizontalOptions="Start"
+                    FontSize="22"
+                />
+                <Label
+                    Text = "Размер"
+                    Grid.Column ="3" 
+                    HorizontalOptions="Start"
+                    FontSize="22"
+                />
+                <Label
+                    Text = "Тип"
+                    Grid.Column ="4" 
+                    HorizontalOptions="Start"
+                    FontSize="22"
+                />
+                <Label
+                    Text = "Оценка"
+                    Grid.Column ="5" 
+                    HorizontalOptions="Start"
+                    FontSize="22"
+                />
+
+            </Grid>
+            
         </VerticalStackLayout>
     </ScrollView>
 
